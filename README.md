@@ -2,6 +2,16 @@
 
 Trabalho da disciplina **Confiabilidade, Segurança de Sistemas e Ergonomia** (Engenharia de Computação).
 
+## Integrantes do grupo
+
+| RA | Nome |
+|---|---|
+| 220020281 | Lucas Gabriel Bento Correa |
+| 220020517 | Leonardo Fernandes Fanhani |
+| 220019627 | Kauã Enrico Pasti Altran |
+| 220020592 | Henrique Pignato |
+| 220020097 | Luke Gabriel dos Santos Belatine |
+
 Implementação de três rotinas matemáticas de proteção e ocultação de dados, em Python:
 
 1. **Hashing** — cadastro de usuário com senha protegida por *salt* aleatório + PBKDF2-HMAC-SHA256, persistido em SQLite.
